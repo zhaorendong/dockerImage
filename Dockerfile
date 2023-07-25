@@ -1,1 +1,1 @@
-FROM gcr.io/istio-testing/ext-authz:latest
+FROM k8s.gcr.io/descheduler/descheduler:v0.23.1
